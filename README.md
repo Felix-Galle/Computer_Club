@@ -32,4 +32,5 @@ I don't wish to divulge too much about myself, but here goes:
 - I wish to become a Commercial Pilot.
 - I love coding and can easily spend too much time on VSCode.
 - I use my Java coding knowledge to make Minecraft mods (for Fabric, as it is the best).
+- I use my Python coding knwoledge to make small automation software for my personal use.
 - I tend to keep to myself.
