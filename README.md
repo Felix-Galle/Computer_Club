@@ -8,6 +8,10 @@
   - Python 3.11
   - Java 21
   - Batch (Windows command line)
+- **Languages Learning:**
+  Javascript
+  C++
+  Windows Powershell  
 
 ## Session Structure
 1. **5-10 minutes:** Helping members with their schoolwork/homework
